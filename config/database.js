@@ -18,3 +18,4 @@ module.exports = {
     migrationStorageTableName: "migrations"
 
 }
+
